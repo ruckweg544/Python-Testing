@@ -1,5 +1,5 @@
 # Program 8
-# Description: Program that displays calendar of the month
+# Description: Calendar of the month
 # Date: 2025-10-13
 
 import calendar
