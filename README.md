@@ -4,6 +4,7 @@ This repository consists of testings of Python fundamentals.
 The focus of this repository is to exercise basics ot Python. +1
 
 ## Example Program Descriptions
+## 1-30 Examples
 - [x] Program 8: Calendar of the month
 - [x] Program 9: Quadratic Equation
 - [x] Program 10: Swapping two variabls without temp variable
@@ -12,4 +13,6 @@ The focus of this repository is to exercise basics ot Python. +1
 - [x] Program 23: Highest Common Factor of two input number
 - [x] Program 24: Decimal number to binary, octal and hexadecimal
 - [x] Program 25: ASCII value Generator
-- [x] Program 26: Natural Logarithm Calculator
+- [x] Program 30: Natural Logarithm Calculator
+
+## 30-60 Examples
