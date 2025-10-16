@@ -12,3 +12,4 @@ The focus of this repository is to exercise basics ot Python. +1
 - [x] Program 23: Highest Common Factor of two input number
 - [x] Program 24: Decimal number to binary, octal and hexadecimal
 - [x] Program 25: ASCII value Generator
+- [x] Program 26: Natural Logarithm Calculator
