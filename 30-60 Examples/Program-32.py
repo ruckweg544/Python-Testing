@@ -11,8 +11,10 @@ print('METHOD 1 Sum of the array is ', ans)
 # Method 2: For loop
 def sum_array(arr):
     total = 0
+
     for element in arr:
         total += element
+    
     return total
 
 result = sum_array(arr)
